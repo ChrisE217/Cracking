@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\chris\Cracking\Cracking\1.1-IsUnique\Source.cpp(15,7): warning C4551: function call missing argument list
+C:\Users\chris\Cracking\Cracking\1.1-IsUnique\Source.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+  1.1-IsUnique.vcxproj -> C:\Users\chris\Cracking\Cracking\Debug\1.1-IsUnique.exe
