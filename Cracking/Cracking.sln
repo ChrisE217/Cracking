@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1-IsUnique", "1.1-IsUnique\1.1-IsUnique.vcxproj", "{B65475D9-2C72-4180-B6D7-A9AA1C7CB54B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2-CheckPermutation", "1.2-CheckPermutation\1.2-CheckPermutation.vcxproj", "{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B65475D9-2C72-4180-B6D7-A9AA1C7CB54B}.Release|x64.Build.0 = Release|x64
 		{B65475D9-2C72-4180-B6D7-A9AA1C7CB54B}.Release|x86.ActiveCfg = Release|Win32
 		{B65475D9-2C72-4180-B6D7-A9AA1C7CB54B}.Release|x86.Build.0 = Release|Win32
+		{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}.Debug|x64.ActiveCfg = Debug|x64
+		{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}.Debug|x64.Build.0 = Debug|x64
+		{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}.Debug|x86.Build.0 = Debug|Win32
+		{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}.Release|x64.ActiveCfg = Release|x64
+		{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}.Release|x64.Build.0 = Release|x64
+		{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}.Release|x86.ActiveCfg = Release|Win32
+		{78E5D31A-B86F-4747-8D2F-5F37FC9683D2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

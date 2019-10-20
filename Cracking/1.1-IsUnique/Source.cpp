@@ -1,19 +1,15 @@
 #include <iostream>
-
 using namespace std;
-
 
 bool isUniqueChars(string str);
 
-int main()
-{
+int main() {
 	string unique = "abcdefghijklmnopqrstuvwxyz";
 	string nonUnique = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz";
 
 	bool t = isUniqueChars(nonUnique);
 
 	std::boolalpha;
-
 	cout << "Unique string: " << isUniqueChars(unique) << endl;
 	cout << "Non unique string: " << isUniqueChars(nonUnique) << endl;
 
